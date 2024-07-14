@@ -37,9 +37,8 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ```
 movie-recommendation-system/
-├── data/
-│   ├── movies.csv
-│   └── ratings.csv
+├── movies.csv
+├── ratings.csv
 ├── Movie Recommendation System.ipynb
 └── README.md
 ```
